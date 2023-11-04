@@ -1,0 +1,12 @@
+address: https://test-stand.gb.ru
+#driver_path: chromedriver.exe
+browser: chrome
+#browser: firefox
+sleep_time: 2
+implicitly_wait: 3
+username: legendary
+password: 11159fde95
+about_page_title_locator: "h1.svelte-z9xc0"
+url_auth: https://test-stand.gb.ru/gateway/login
+url_id:  https://test-stand.gb.ru/api/users/profile/4802
+token : dce7f297c5f685a8ba2dcab8026e9990
